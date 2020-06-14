@@ -9,4 +9,4 @@
 
 ## Installation
 
-* FROM augustohassel/r_shiny
+* FROM augustohassel/r-shiny
